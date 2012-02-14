@@ -1,0 +1,3 @@
+[submodule "vendor/ReplicatorG"]
+	path = vendor/ReplicatorG
+	url = https://github.com/makerbot/ReplicatorG.git
