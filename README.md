@@ -13,7 +13,7 @@ $ rbenv install jruby-1.6.5
 or
 
 ```bash
-rvm install jruby
+$ rvm install jruby
 ```
 
 Next, we need to compile the ReplicatorG libraries
@@ -28,7 +28,7 @@ assumes that you already have Java and associated build tools installed.
 ## Usage
 
 Once everything is setup and assuming you have a serial connection with your
-machine, you can now build any object that sits on the machines SD card.
+machine, you can now build any object that sits on the machine's SD card.
 
 ```bash
 $ duplicatorg [object.s3g]
