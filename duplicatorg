@@ -1,4 +1,4 @@
 #!/bin/bash
 
 cd vendor/ReplicatorG/
-JAVA_OPTS=-d32 DYLD_LIBRARY_PATH=build/macosx/dist ../../duplicatorg.rb $*
+JAVA_OPTS=-d32 DYLD_LIBRARY_PATH=build/macosx/dist jruby ../../duplicatorg.rb $*
