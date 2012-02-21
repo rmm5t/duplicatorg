@@ -1,6 +1,9 @@
 DuplicatorG is a minimal command line client for
 [ReplicatorG](http://replicat.org/). This was built as an experiment to see
-whether I could automate my [MakerBot](http://www.makerbot.com/) builds.
+whether I could automate my [MakerBot](http://www.makerbot.com/) builds.  This
+uses the core ReplicatorG libraries and leverages them via JRuby. If you'd like
+a more Ruby-centric approach, try
+[RublicatorG](https://github.com/tbuser/RublicatorG).
 
 ## Setup
 
